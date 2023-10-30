@@ -1,0 +1,125 @@
+/* ===================================================== Content ================================================================ */
+
+body {
+	
+	background-color: #FAB941;
+	margin: 0px;
+	padding:0px;
+	
+}
+
+#container {
+	
+	background-color: #ffcf79;
+	padding: 20px;
+	padding-top: 0px;
+	width: 800px;
+	margin-top: 0px;
+	margin-left: auto;
+	margin-right:auto;
+	font-family:Times New Roman;
+	
+	
+}
+
+.heading {
+	
+	text-align: center;
+	
+}
+
+/* ============================================================ Menu ================================================================= */
+
+#menu {
+	
+	margin: 10px;
+	
+}
+
+#menu ul {
+	
+	list-style-type: none;
+	text-align: center;
+	background-color: black;
+	
+}
+
+#menu ul li {
+	
+	display: inline;
+	
+}
+
+#menu ul li a {
+	
+	text-decoration: none;
+	color: white;
+	background-color: black;
+	margin-left: 25px;
+}
+
+#menu ul li a:hover {
+	
+	background-color:white;
+	color:black;
+	
+}
+
+/* ================================================================== Title ========================================================= */
+
+#title {
+	
+	background-color: #fc0303;
+	margin: 10px;
+	height: 60px;
+	border-radius: 5px;
+	margin:10px;
+	
+	
+}
+
+h1 {
+	
+	text-align: center;
+	position:relative;
+	top:50%;
+	-webkit-transform: translateY(-50%);
+	-ms-transform: translateY(-50%);
+	transform: translateY(-50%);
+	font-family: garamond;
+	
+}
+
+/* ---------------------------------- Links ---------------------------- */
+
+#link {
+	
+	border-radius: 10px;
+	
+}
+
+#link ul {
+	
+	list-style-type: none;
+	border-radius: 10px;
+	
+}
+
+#link ul li a {
+	
+	text-decoration: none;
+	
+}
+
+#link ul li a:hover {
+	
+	color: #ff2929;
+	background-color: #383838;
+	
+}
+
+#link ul li a:visited {
+	
+	color: #9429ff;
+	
+}
